@@ -1,7 +1,3 @@
-<<<<<<< HEAD
 hello world £¡
 cread a new file £¡
-=======
-Hello World
-cread a new file 
->>>>>>> 82adecc39e3e3c22b78c556a5b886c83283007b6
+
